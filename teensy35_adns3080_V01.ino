@@ -12,7 +12,8 @@
 /// that indicates how good or bad the image is is for optic flow 
 /// tracking.
 ///
-/// In image streaming mode, use the python script.
+/// In image streaming mode, the entire CCD image information is 
+/// transmitted. Use the Python script to display it.
 ///
 /// This code is almost entirely based on work by Kristian Lauszus.
 ///
